@@ -1,0 +1,39 @@
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\OI.Tests.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\OI.Tests.pdb
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\OI.TestFramework.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\WebDriver.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\OI.TestFramework.pdb
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\WebDriver.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\obj\Debug\OI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\obj\Debug\OI.Tests.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.Tests\obj\Debug\OI.Tests.pdb
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\OI.Tests.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\OI.Tests.pdb
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\OI.TestFramework.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\WebDriver.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\OI.TestFramework.pdb
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\WebDriver.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\obj\Debug\OI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\obj\Debug\OI.Tests.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI\OI.Tests\obj\Debug\OI.Tests.pdb
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\OI.Tests.dll
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\OI.Tests.pdb
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\OI.TestFramework.dll
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\WebDriver.dll
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\OI.TestFramework.pdb
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\WebDriver.xml
+C:\Users\mallepr\Desktop\OI\OI.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\mallepr\Desktop\OI\OI.Tests\obj\Debug\OI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mallepr\Desktop\OI\OI.Tests\obj\Debug\OI.Tests.dll
+C:\Users\mallepr\Desktop\OI\OI.Tests\obj\Debug\OI.Tests.pdb

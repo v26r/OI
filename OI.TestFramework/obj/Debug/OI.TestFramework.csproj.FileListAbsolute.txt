@@ -1,0 +1,8 @@
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\bin\Debug\OI.TestFramework.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\bin\Debug\OI.TestFramework.pdb
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\bin\Debug\WebDriver.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\bin\Debug\WebDriver.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\obj\Debug\OI.TestFramework.dll
+C:\Users\mallepr\Documents\Visual Studio 2017\Projects\OI.TestFramework\OI.TestFramework\obj\Debug\OI.TestFramework.pdb
